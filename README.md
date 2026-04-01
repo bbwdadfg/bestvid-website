@@ -1,2 +1,5 @@
-# bestvid-website
-BestVid promotional repository
+# BestVid
+
+**AI video and image generator for creators.**
+
+[**Visit BestVid →**](https://bestvid.net)
