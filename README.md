@@ -21,6 +21,21 @@ Instead of squeezing every language into one thin README, this repository now us
 - [Türkçe](./README.tr.md)
 - [Bahasa Indonesia](./README.id.md)
 
+## Audio Versions
+
+- [English Audio](./AUDIO.en.md)
+- [简体中文 Audio](./AUDIO.zh-CN.md)
+- [繁體中文 Audio](./AUDIO.zh-TW.md)
+- [日本語 Audio](./AUDIO.ja.md)
+- [한국어 Audio](./AUDIO.ko.md)
+- [Deutsch Audio](./AUDIO.de.md)
+- [Español Audio](./AUDIO.es.md)
+- [Português (Brasil) Audio](./AUDIO.pt-BR.md)
+- [Français Audio](./AUDIO.fr.md)
+- [Русский Audio](./AUDIO.ru.md)
+- [Türkçe Audio](./AUDIO.tr.md)
+- [Bahasa Indonesia Audio](./AUDIO.id.md)
+
 ## Main Website
 
 - Website: https://bestvid.net
